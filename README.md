@@ -7,7 +7,7 @@
 
 ### [Live Site](https://whatsapp-3bdd3.firebaseapp.com/)
 
-## Usage
+## Steps
 
 1. Create a `firebase.js` file in the project directory with the following code and add your own Firebase credentials within the single quotes:
 
@@ -30,7 +30,6 @@
 
    export { db, auth, storage };
 
-```
 ## Install Dependencies
 ```
 npm install
