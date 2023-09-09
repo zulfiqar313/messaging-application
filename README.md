@@ -31,7 +31,6 @@
    export { db, auth, storage };
 
 ```
-
 ## Install Dependencies
 ```
 npm install
@@ -40,4 +39,5 @@ npm install
 ## Run App
 ```
 npm start
+```
 ```
